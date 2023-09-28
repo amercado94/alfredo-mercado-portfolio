@@ -6,9 +6,9 @@ I put together a portfolio for myself so that potential employers can access a s
 ## Website Screenshot
 ![Top of my portfolio screenshot featuring my picture and about me section](<assets/images/portfolioSS-top.png>)
 
-![Middle of my portfolio screenshot featuring my works section with working links to previous works](<assets/images/portfolioSSmiddle.png>)
+![Middle of my portfolio screenshot featuring my works section with working links to previous works](<assets/images/portfolioSSmiddle2.png>)
 
-![Bottom of my portfolio screenshot featuring my contact information with working links to email,phone,instagram, and github](<assets/images/portfolioSSbottom.png>)
+![Bottom of my portfolio screenshot featuring my contact information with working links to email,phone,instagram, and github](<assets/images/portfolioSSbottom2.png>)
 
 ## Link
 https://amercado94.github.io/alfredo-mercado-portfolio/
